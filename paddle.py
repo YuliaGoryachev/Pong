@@ -3,4 +3,4 @@ class Paddle:
 
 
 if __name__== '__main__':
-	pass
+	print('Goodbye Cruel World!')
